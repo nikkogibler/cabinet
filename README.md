@@ -4,6 +4,11 @@ Cabinet is an intentionally small, curated working library of proven operator wo
 
 It is built like a field manual, not a broad platform: direct, calm, reusable, and kept deliberately narrow so each skill has to earn its place. The public library is small on purpose. Every included skill solves a repeatable operational problem without leaning on one private repo, one client, or one internal process.
 
+A few concrete examples:
+
+- If you inherit an unfamiliar repository and need to decide whether it is safe to inspect, sandbox, or trust with real data, use `repo-audit`. Outcome: a conservative plain-language trust assessment and a clear next step.
+- If you need to pause an agent session and continue later without reconstructing the whole project, use `handoff` and `resume-from-handoff`. Outcome: continuation-grade context transfer instead of restating everything from scratch.
+
 ## What Cabinet Covers
 
 ### Repository Trust
