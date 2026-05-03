@@ -1,5 +1,9 @@
 # Cabinet
 
+<p align="center">
+  <img src="images/social-preview-blueprint--gemini-3.1-flash-image-preview.jpeg" alt="Cabinet" width="800" />
+</p>
+
 Cabinet is an intentionally small, curated working library of proven operator workflows for AI-assisted software work.
 
 It is built like a field manual, not a broad platform: direct, calm, reusable, and kept deliberately narrow so each skill has to earn its place. The public library is small on purpose. Every included skill solves a repeatable operational problem without leaning on one private repo, one client, or one internal process.
